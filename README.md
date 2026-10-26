@@ -3,12 +3,12 @@
 
 <div align="center">
 
-# **SOUMIL**
+# **HEY! I'M SOUMIL**
 
 </div>
 
 
-## ⚡ Who I Am
+## ⚡ Who AM I
 
 - B.Tech (CSE), IILM UNIVERSITY GREATER NOIDA ~ 1st Year 
 - C programming 
