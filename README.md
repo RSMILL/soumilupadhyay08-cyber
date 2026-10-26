@@ -12,7 +12,7 @@
 
 - B.Tech (CSE), IILM UNIVERSITY GREATER NOIDA ~ 1st Year 
 - C programming 
-- “Code. Create. Beyond Infinity.”  
+- “not there yet, but getting there.”  
 
 ---
 
@@ -25,7 +25,7 @@
 ---
 
 # ⚡ Motto
-> **“”**
+> **“not there yet, but getting there.”**
 
 
 
