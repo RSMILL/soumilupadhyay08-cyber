@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**soumilupadhyay08-cyber/soumilupadhyay08-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Neon + Dark + ASCII + Logos GitHub Profile README -->
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# **SOUMIL**
+
+</div>
+
+
+## ⚡ Who I Am
+
+- B.Tech (CSE), IILM UNIVERSITY GREATER NOIDA ~ 1st Year 
+- C programming 
+- “Code. Create. Beyond Infinity.”  
+
+---
+
+<div align="center">
+
+![](https://img.shields.io/badge/Team-The_Demogorgons-red)
+
+</div>
+
+---
+
+# ⚡ Motto
+> **“”**
+
+
+
