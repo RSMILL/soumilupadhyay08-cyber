@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/Team-The_Demogorons-red)
+![](https://img.shields.io/badge/Team-The_Demogorgons-red)
 
 </div>
 
