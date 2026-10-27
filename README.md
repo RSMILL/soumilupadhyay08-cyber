@@ -25,6 +25,11 @@
 
 # 🧑‍💻 Tech Stack
 
+### *Languages*
+<p>
+<img src="https://skillicons.dev/icons?i=c,html5,css3,discord" />
+</p>
+
 ---
 
 # ⚡ Motto
