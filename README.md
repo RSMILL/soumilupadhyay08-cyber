@@ -27,7 +27,7 @@
 
 ### *Languages*
 <p>
-<img src="https://skillicons.dev/icons?i=c,html,css,matlab" />
+<img src="https://skillicons.dev/icons?i=c,html,css" />
 </p>
 
 ---
