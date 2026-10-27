@@ -27,7 +27,7 @@
 
 ### *Languages*
 <p>
-<img src="https://skillicons.dev/icons?i=c,html5,css3,discord" />
+<img src="https://skillicons.dev/icons?i=c,html,css" />
 </p>
 
 ---
